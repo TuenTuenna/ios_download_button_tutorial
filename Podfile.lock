@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.3.0)
+  - loady (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - loady
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - loady
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  loady: f2acbcbd53bdeb55425e478304da2f7ff3ec706e
+
+PODFILE CHECKSUM: 06e347fd92ffa8880db690077fc04a7bbca9002a
+
+COCOAPODS: 1.8.4
